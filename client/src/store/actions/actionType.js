@@ -1,0 +1,7 @@
+export const AUTH_START = "AUTH_START"
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS"
+export const LOGOUT = "LOGOUT"
+export const LOGIN_FAILED = "LOGIN_FAILED"
+export const ADD_MESSAGE = "ADD_MESSAGE"
+export const SET_MESSAGES = "SET_MESSAGE"
+export const GET_CHATS_SUCCESS = "GET_CHATS_SUCCESS"
